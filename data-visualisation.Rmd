@@ -1,0 +1,15 @@
+# Data Visualisation {#data-viz}
+
+## Introduction
+
+I co-authored a [Staple Inn Actuarial Society](https://sias.org.uk/)
+(SIAS) [paper](https://sias.org.uk/media/1224/2014-02-04-a-prictical-guide-to-data-visualisation.pdf)
+on data visualisation in 2014.
+
+TODO links to Life Conference talks etc
+
+TODO DataViz working party
+
+## `ggplot2`
+
+TODO explain about ggplot2

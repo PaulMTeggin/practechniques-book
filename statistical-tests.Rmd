@@ -1,0 +1,12 @@
+# Statistical Tests {#stat-tests}
+
+## Introduction
+
+TODO philosophy
+
+## Kolmogorov-Smirnov Test
+
+## Anderson-Darling Test
+
+## Estimation of Parameters from Data
+

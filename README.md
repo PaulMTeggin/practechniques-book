@@ -1,13 +1,11 @@
-Welcome! 
+# practechniques-book - Practical Actuarial Techniques
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This is the source for the online book Practical Actuarial Techniques (in development).
 
-This template provides a skeleton file structure that you can edit to create your book. 
+**THIS IS A VERY EARLY DRAFT AND NO RELIANCE WHATSOEVER MAY BE PLACED ON IT.**
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+## Reporting issues
 
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+Readers of the draft `practechniques-book` are encouraged to report issues here
+(whether typographical, clarity, code, or anything else).
+Go to *issues* in the menu above, and press *new issue* to start a new issue report or content request.

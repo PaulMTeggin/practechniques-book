@@ -1,0 +1,13 @@
+# Distribution Fitting {#dist-fit}
+
+## Introduction
+
+## Method of Moments
+
+## Maximum Likelihood Estimation
+
+### MLE gives asymptotically unbiased parameters
+
+TODO ghyp case study
+
+## Quantile Matching

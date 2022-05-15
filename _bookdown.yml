@@ -1,4 +1,26 @@
+book_filename: practechniques
+repo: https://github.com/PaulMTeggin/practechniques-book/
 delete_merged_file: true
+new_session: true
+
+rmd_files: [
+  "index.Rmd",
+  
+  "data-visualisation.Rmd",
+  "linear-algebra.Rmd",
+  "distribution-fitting.Rmd",
+  "statistical-tests.Rmd",
+  "overlapping-data.Rmd",
+  "dependency-aggregation.Rmd",
+  "proxy-modelling.Rmd",
+  "operational-risk.Rmd",
+  "equity-release.Rmd"
+]
+
 language:
+  label:
+    fig: "FIGURE "
+    tab: "TABLE "
   ui:
+    edit: "Edit"
     chapter_name: "Chapter "
